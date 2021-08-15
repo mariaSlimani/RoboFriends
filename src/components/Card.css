@@ -1,0 +1,16 @@
+.cardEle
+{
+  background: #8ADFCB;
+  display: inline-block;
+  padding: 1rem;
+  border : .5rem;
+  border-width: .25rem;
+  border-radius: .5rem;
+  margin : .5rem;
+  box-shadow: 4px 4px 8px 0 rgba( 0, 0, 0, .2 );
+  text-align: center;
+}
+.cardEle:hover, .cardEle:focus
+{
+   -webkit-transform: scale( 1.05 ); transform: scale( 1.05 );
+}

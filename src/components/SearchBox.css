@@ -1,0 +1,12 @@
+.searchB {
+  padding: .5rem;
+  border-radius: .25rem;
+  background-color: rgba(227,255,252,.8);
+  border-color: #04D4A8;
+  outline: none;
+}
+
+.searchB:focus {
+  border-color: #009CF7;
+  outline: none;
+}
